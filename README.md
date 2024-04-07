@@ -32,6 +32,6 @@ The project utilizes HTML and CSS for the frontend design and Python with Django
 
 **Yash Lade**
 
-## License
+## Website Screenshots
 
-This project is licensed under the [MIT License](LICENSE).
+
