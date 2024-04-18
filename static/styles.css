@@ -273,6 +273,15 @@ header{
     gap: 1rem;
     margin-top: 2rem;
 }
+
+.services-container .box{
+    padding: 7px;
+    border-radius: 2px;
+    box-shadow: 5px 4px 41px rgba(0, 0,0, 0.1);
+}
+.box:hover{
+    border: 3px solid #00a6ff;
+}
 .services-container .box{
     padding: 5px;
     border-radius: 1rem;
